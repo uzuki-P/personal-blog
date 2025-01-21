@@ -5,8 +5,10 @@ tags:
   - keyboard
   - journey
 editor-width: "40"
-title: Split Keyboard Journey
+title: Split Keyboard Journey ⌨️---⌨️
 ---
+
+> need proof read when I'm feel like it
 
 Lately I've been interested in split keyboard and if you read [[vim-journey|my previous article]] you will know my
 interest started because of some YouTube videos and most likely from
@@ -53,5 +55,5 @@ from your home row and that's another game changer for me beside the mouse mode.
 documentation](https://github.com/manna-harbour/miryoku/tree/master/docs/reference#layout). Me personally ditch the home row mod which get me annoyed 
 since it feels not consistent and also all the thumb keys is tap-hold only. So to press `esc` I actually need to hold
 the right-right-thumb key first then press the left-left-thumb key. Sometimes it can get quite tricky and some people
-hate doing 'chording' keys but I'm fine with it. It's all about preferences.
+hate doing 'chording' keys but I'm fine with it. After all it's all about preferences.
 

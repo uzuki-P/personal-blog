@@ -7,12 +7,15 @@ tags:
 title: vim command that I'm gonna forget
 ---
 
+> __[v]__ is visual/visual-block mode  
+> __[i]__ is insert mode
+
 # Spelling
 - `z=` enable spelling
-- `zg` add words to spelling
-- `zw` words is misspelling
+- `zg` add word to dictionary
+- `zw` remove word from dictionary
 
 # Formatting
-- [v] `gq` wrap selected text based on `vim.opt.textwidth`
+- __[v]__ `gq` wrap selected text based on `vim.opt.textwidth`
 
 

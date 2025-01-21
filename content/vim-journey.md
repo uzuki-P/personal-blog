@@ -5,7 +5,7 @@ tags:
   - vim
   - journey
 editor-width: "40"
-title: My vim journey
+title: My vim journey ⌨️
 ---
 
 # My vim journey
